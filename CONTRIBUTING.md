@@ -1,15 +1,6 @@
 Want to contribute? Great! First, read this page (including the small print at the end).
 
 ### Before you contribute
-Before we can use your code, you must sign the
-[Google Individual Contributor License Agreement](https://cla.developers.google.com/about/google-individual)
-(CLA), which you can do online. The CLA is necessary mainly because you own the
-copyright to your changes, even after your contribution becomes part of our
-codebase, so we need your permission to use and distribute your code. We also
-need to be sure of various other things—for instance that you'll tell us if you
-know that your code infringes on other people's patents. You don't have to sign
-the CLA until after you've submitted your code for review and a member has
-approved it, but you must do it before we can put your code into our codebase.
 Before you start working on a larger contribution, you should get in touch with
 us first through the issue tracker with your idea so that we can help out and
 possibly guide you. Coordinating up front makes it much easier to avoid
@@ -43,25 +34,19 @@ frustration later on.
 9. Find the latest work. We use milestones to split apart the cycles of work (also called iterations in Agile)
 Choose the latest milestone once in the Boards tab by clicking the Milestones dropdown. The higher the story is on the board the more important it is. The stories also have labels such as ‘UX’, ‘Bug’, or ‘Feature’ which indicate what category of work needs to be done for that story. 
 
+### Workflow
+Please read the [Development Guide.](/WORKFLOW.md) This explains the Translation Cards development steps and process.
 
 ### Pull Requests
 * When creating a pull request, be sure to set:
   * The base fork to `translation-cards/translation-cards`
   * The base to `develop`
+* Before making a pull request, sync your fork with the upstream repo ([more info](https://help.github.com/articles/syncing-a-fork/))
 * Pull requests into the master branch will not be accepted. 
 * Please include a descriptive title and a helpful comment.
-
-### Code reviews
-All submissions, including submissions by project members, require review. We
-use Github pull requests for this purpose.
 
 ### Google Drive
 All documents, spreadsheets, presentations, and UX work related to this project is saved on the Translation Cards [drive] (https://drive.google.com/open?id=0Bx3lspqM75QyeVRheDJ0cWZlMkU)
 
 ### Communication via Slack
 For all project updates, questions, concerns and communication we use [slack] (https://translation-cards.slack.com/?redir=%2Fadmin%2Finvites). If you do not have an account, ask for an invite to slack from one of the Translation Cards team members.
-
-### The small print
-Contributions made by corporations are covered by a different agreement than
-the one above, the
-[Software Grant and Corporate Contributor License Agreement](https://cla.developers.google.com/about/google-corporate).
